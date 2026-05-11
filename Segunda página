@@ -1,15 +1,10 @@
 <html>
        <head>
-                 <Title>Labubu</title>
+                 <Title> </title>
 </head>
 <body style="background-color#047E82">
-         <h1>Escribiendo mi primer página html</h1>
- <P> Estoy armando mi primera web
+         <h1></h1>
+ <P>
 En esta etiqueta puedo agregar párrafos </p>
-<a href="https://music.youtube.com/watch?v=wG1t7Bq5xuY&si=1kEXzWtrL5WeIEPN">Ir</a>
-<ul>/</ul>/<li>Robar labubus a señoras</li>
-<li> Cantar labubu fonk </li>
-<li> hacer sixseven </li> 
-</ul>
 </body>
 </html>
